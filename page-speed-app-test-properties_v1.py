@@ -15,7 +15,7 @@ import numpy as np
 # pagespeed api to call
 API_URL = 'https://www.googleapis.com/pagespeedonline/v2/runPagespeed?' 
 # user credentials
-api_key = 'AIzaSyDiBn4WVS3zZ2E4LtKElbaf17E577qVwrI'
+api_key = 'yourapikeygoeshere'
 
 # call properties aka list of urls from a csv file here
 properties = pd.read_csv('filename.csv')
