@@ -8,7 +8,7 @@ import numpy as np
 '''
 v2. Aug 2017.
   1. Add all ruleNames and their impact scores in a 2d format. 
-  2. save reports as: pagespeedapp_reports/filename_strategy_version.csv
+  2. generate score reports as: pagespeedapp_reports/filename_strategy_version.csv
   3. Push reports to google big query. 
 
 # Plain and simple here's how this app works works:
